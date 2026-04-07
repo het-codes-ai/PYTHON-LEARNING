@@ -4,7 +4,6 @@ age3=17
 
 if age1>=18:
 	print('man1 is adult')
- 
 else:
   	print('man1 is minor')
 		
