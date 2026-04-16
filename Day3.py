@@ -11,7 +11,7 @@ total1=p+c+m
 print('science marks is',total1)
 
 total2=p+c+ m+e+cs
-print('total theory marks is',total2)
+print('total theory marks are',total2)
 
 total3=p+c+m+e+cs+pp+cp+csp
 print('overall total is',total3)
