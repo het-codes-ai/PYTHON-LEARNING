@@ -1,4 +1,4 @@
 def conv(x):
 	conversion=x*83
-	print(conversion)
+	print(x,"USD "," = ",conversion," INR")
 conv(9)
