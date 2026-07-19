@@ -33,7 +33,3 @@ The codebase tracks structural advancement across critical foundational domains:
 ### Current Scale
 The directory structure houses 47 distinct script files covering independent logic problems. Each script represents a verified compilation test executed on-device to ensure runtime validity without desktop constraints.
 
-### Execution Instruction
-To execute any module from this collection on a local or mobile terminal:
-1. Clone the repository target index.
-2. Initialize the script file using a standard Python 3.x interpreter or mobile Pydroid 3 compiler environment.
